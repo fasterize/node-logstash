@@ -27,7 +27,7 @@
     "log4node": "0.1.2",
     "zmq": "2.2.0",
     "optimist": "0.3.4",
-    "moment": "1.7.0"
+    "moment": "git://github.com/dax/moment.git#feature/epochtimestamp"
   },
   "directories": {
     "test": "./test",
